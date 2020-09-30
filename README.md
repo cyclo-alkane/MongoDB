@@ -1,8 +1,9 @@
 # MongoDB
-> This is a simple mongodb implementation using node.js
+> This is a simple mongodb implementation using node.js and mongoose.
 ---
 # Requirement
 > Install mongodb for your system.\
+> Install mongoose.\
 > Should have node.js
 ---
 # Run
