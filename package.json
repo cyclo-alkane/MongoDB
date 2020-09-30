@@ -1,0 +1,17 @@
+{
+  "name": "fruitproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bl": "^4.0.3",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.5.7",
+    "mongoose": "^5.10.7"
+  }
+}
