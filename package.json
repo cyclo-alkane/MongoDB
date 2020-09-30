@@ -11,6 +11,6 @@
   "dependencies": {
     "bl": "^4.0.3",
     "mongodb": "^3.6.2",
-    "mongoose": "^5.9.11"
+    "mongoose": "^5.10.7"
   }
 }
